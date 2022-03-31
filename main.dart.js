@@ -30831,7 +30831,7 @@ s.F(0,null)}return s},
 $S:0}
 A.IW.prototype={
 H(a,b){var s=null
-return new A.b2(B.eS,A.iI(A.b([B.M9,B.tN,B.M7,B.aI,new A.b2(B.aq,A.d9("ARMENTA HERNANDEZ",s,s,s,s,B.bZ,s,s),s),B.aI,B.ud,B.aI,new A.b2(B.aq,A.d9("JULIO",s,s,s,s,B.bZ,s,s),s),B.aI,B.Ml,B.aI,new A.b2(B.aq,A.d9("MEPROSA",s,s,s,s,B.bZ,s,s),s),B.aI,B.M8,B.aI,new A.b2(B.aq,A.d9("12/07/2022",s,s,s,s,B.bZ,s,s),s),B.aI,B.Mb,B.aI,new A.b2(B.aq,A.d9("$4000.00",s,s,s,s,B.bZ,s,s),s)],t.p),B.be,B.Q,B.Z,B.ay),s)}}
+return new A.b2(B.eS,A.iI(A.b([B.M8,B.tN,B.M6,B.aI,new A.b2(B.aq,A.d9("ARMENTA HERNANDEZ",s,s,s,s,B.bZ,s,s),s),B.aI,B.ud,B.aI,new A.b2(B.aq,A.d9("JULIO",s,s,s,s,B.bZ,s,s),s),B.aI,B.Ml,B.aI,new A.b2(B.aq,A.d9("MEPROSA",s,s,s,s,B.bZ,s,s),s),B.aI,B.M7,B.aI,new A.b2(B.aq,A.d9("12/07/2022",s,s,s,s,B.bZ,s,s),s),B.aI,B.Mb,B.aI,new A.b2(B.aq,A.d9("$4000.00",s,s,s,s,B.bZ,s,s),s)],t.p),B.be,B.Q,B.Z,B.ay),s)}}
 A.o6.prototype={
 H(a,b){var s=null,r="comprobanteDomicilio",q=A.xj(s,s,s,s,s,s,s,s,s,s,s,A.ae(b).ch.c,s,s,s,s,s,s),p=t.am,o=t.N,n=t.z,m=A.ah(["idCliente",null,"serie",null,"folio",null,"tipoCredito",null,"grupo",null,"montoSolicitado","$0.00","documentos",A.ah(["ineFrontal","","ineDetras","",r,"","comprobanteIngresos","","pagareFrontal","","pagareDetras","","solicitud","","otros","","fotografia",""],o,o)],o,n),l=A.ah(["avales",A.b([A.ah(["id","1","nombre","JULIO ARMENTA HERNANDEZ"],o,o),A.ah(["id","2","nombre","JESUS ARAUJO HORACIO"],o,o),A.ah(["id","3","nombre","JESUS ALEJANDRO URIAS"],o,o),A.ah(["id","4","nombre","ANGEL GONZALEEZ SOTO"],o,o)],t.SN),"documentos",A.ah(["ineFrontal","","ineDetras","",r,"","fotografia",""],o,o)],o,n)
 n=B.e4.h(0,600)
@@ -30847,7 +30847,7 @@ H(a,b){var s=null,r=A.abj(s,s,B.Mj),q=this.a.c
 q.toString
 return A.Gr(r,A.lB(new A.b2(B.zX,new A.tM(this.d,q,s),s),s,s),this.Ta(),s)},
 Ta(){var s=null
-return A.e1(A.b([A.ka(s,B.Aw,s,new A.a48(this),s),A.ka(s,B.Ax,s,this.gSZ(),s),A.ahx(!1,B.M6,B.M,s,s,s,s,s,this.gV3(),s)],t.p),B.Y,B.F6,B.Z)},
+return A.e1(A.b([A.ka(s,B.Aw,s,new A.a48(this),s),A.ka(s,B.Ax,s,this.gSZ(),s),A.ahx(!1,B.M9,B.M,s,s,s,s,s,this.gV3(),s)],t.p),B.Y,B.F6,B.Z)},
 q8(){var s=0,r=A.a3(t.H),q=this,p,o,n,m
 var $async$q8=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:m=q.c
@@ -66244,11 +66244,11 @@ B.Lg=new A.p(!0,B.i,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.JK=new A.p(!0,B.i,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.M4=new A.du(B.Ja,B.KQ,B.L2,B.LG,B.Kp,B.Jx,B.KX,B.Ks,B.KA,B.Lo,B.JH,B.LL,B.Kk,B.Lg,B.JK)
 B.uc=new A.xt(1,"longestLine")
-B.M6=new A.bx("Done",null,null,null,null,null,null,null,null,null)
-B.M7=new A.bx("Apellidos",null,B.ba,null,null,null,null,null,null,null)
-B.M8=new A.bx("Fecha ultimo credito",null,B.ba,null,null,null,null,null,null,null)
-B.M9=new A.bx("Datos Cliente",null,B.df,null,null,null,null,null,null,null)
+B.M6=new A.bx("Apellidos",null,B.ba,null,null,null,null,null,null,null)
+B.M7=new A.bx("Fecha ultimo credito",null,B.ba,null,null,null,null,null,null,null)
+B.M8=new A.bx("Datos Cliente",null,B.df,null,null,null,null,null,null,null)
 B.k9=new A.bx("BUSCAR",null,B.bD,null,null,null,null,null,null,null)
+B.M9=new A.bx("Recortar",null,null,null,null,null,null,null,null,null)
 B.Ma=new A.bx("Datos Aval",null,B.df,null,null,null,null,null,null,null)
 B.Mb=new A.bx("Monto preautorizado",null,B.ba,null,null,null,null,null,null,null)
 B.Me=new A.bx("square",null,null,null,null,null,null,null,null,null)
